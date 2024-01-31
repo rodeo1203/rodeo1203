@@ -2,7 +2,7 @@
 - 👀 I’m interested in finance and trading
 - 🌱 I’m currently learning financial engineering and quantitative methods
 - 💞️ I’m looking to collaborate on quant trading and analytics projects
-- 📫 Reach me at adarshpandey1203@gmail.com
+- 📫 Reach me on LinkedIn
 
 <!---
 rodeo1203/rodeo1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
