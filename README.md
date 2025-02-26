@@ -1,5 +1,5 @@
 -  Hi, I’m Adarsh
--  I’m interested in finance and trading
+-  I’m interested in finance and trading, currently focused on building my technical toolkit by executing multiple short term projects, and reading research papers.
 -  I’m currently pursuing a master's in financial engineering at Cornell
 -  I’m looking to collaborate on quant trading projects 
 -  Reach me on LinkedIn
